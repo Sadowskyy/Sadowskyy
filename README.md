@@ -12,7 +12,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="250px" width="400px" alt="GIF" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <br />
 
 ### Hi 🙋‍♂️,
