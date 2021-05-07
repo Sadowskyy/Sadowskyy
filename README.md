@@ -16,7 +16,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 17 years old Self-taught Full-Stack developer from Poland.
+### I'm 18 years old Self-taught Full-Stack developer from Poland.
 
 
 #### - 🥀 Learning Angular and Spring Boot
